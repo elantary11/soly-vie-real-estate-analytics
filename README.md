@@ -79,3 +79,12 @@ The repository includes the report export and dashboard images. The `.pbix` file
 
 Mohamed Elantary - Data Analyst and Data Engineering student  
 [LinkedIn](https://www.linkedin.com/in/mohamed-elantary-data/) | [GitHub](https://github.com/elantary11)
+
+
+## Dashboard walkthrough
+
+Click the preview below to watch the full Power BI report, including navigation, filtering, inventory, revenue, and customer analysis.
+
+[![Watch the Soly Vie dashboard walkthrough](assets/executive-overview.png)](assets/soly-vie-dashboard-demo.mp4)
+
+[▶ Watch the full dashboard walkthrough](assets/soly-vie-dashboard-demo.mp4)
