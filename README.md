@@ -71,6 +71,15 @@ The report is organized into three analytical views:
 
 > Privacy note: the supplied customer view appears to contain individual client names. Replace them with anonymous labels before publishing the image or report publicly unless the data is demonstrably synthetic or you have permission to disclose it.
 
+
+## Dashboard walkthrough
+
+Watch the full Power BI report below, including navigation, filtering, inventory, revenue, and customer analysis.
+
+[![Watch the Soly Vie dashboard walkthrough](assets/executive-overview.png)](https://github.com/elantary11/soly-vie-real-estate-analytics/raw/refs/heads/main/assets/soly-vie-dashboard-demo.mp4)
+
+[▶ Play the full dashboard walkthrough](https://github.com/elantary11/soly-vie-real-estate-analytics/raw/refs/heads/main/assets/soly-vie-dashboard-demo.mp4)
+
 ## Repository note
 
 The repository includes the report export and dashboard images. The `.pbix` file and source data can be added separately when they are ready for public use.
@@ -79,12 +88,3 @@ The repository includes the report export and dashboard images. The `.pbix` file
 
 Mohamed Elantary - Data Analyst and Data Engineering student  
 [LinkedIn](https://www.linkedin.com/in/mohamed-elantary-data/) | [GitHub](https://github.com/elantary11)
-
-
-## Dashboard walkthrough
-
-Click the preview below to watch the full Power BI report, including navigation, filtering, inventory, revenue, and customer analysis.
-
-[![Watch the Soly Vie dashboard walkthrough](assets/executive-overview.png)](assets/soly-vie-dashboard-demo.mp4)
-
-[▶ Watch the full dashboard walkthrough](assets/soly-vie-dashboard-demo.mp4)
